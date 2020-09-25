@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher", "Publisher\Publisher.csproj", "{C99BA9F3-D7A3-41C9-A7CC-7BF2952B67A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Config", "Config\Config.csproj", "{14412A8B-CA7D-454A-863D-2DA7238D06F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber", "Subscriber\Subscriber.csproj", "{9F968962-5BF5-4EEF-B31E-8787C95CD891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C99BA9F3-D7A3-41C9-A7CC-7BF2952B67A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99BA9F3-D7A3-41C9-A7CC-7BF2952B67A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99BA9F3-D7A3-41C9-A7CC-7BF2952B67A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99BA9F3-D7A3-41C9-A7CC-7BF2952B67A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14412A8B-CA7D-454A-863D-2DA7238D06F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14412A8B-CA7D-454A-863D-2DA7238D06F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14412A8B-CA7D-454A-863D-2DA7238D06F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14412A8B-CA7D-454A-863D-2DA7238D06F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F968962-5BF5-4EEF-B31E-8787C95CD891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F968962-5BF5-4EEF-B31E-8787C95CD891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F968962-5BF5-4EEF-B31E-8787C95CD891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F968962-5BF5-4EEF-B31E-8787C95CD891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA196D0C-EF4A-437C-95B6-30A2F2ACC2B2}
+	EndGlobalSection
+EndGlobal
